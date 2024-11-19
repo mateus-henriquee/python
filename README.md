@@ -114,4 +114,4 @@ Se você tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma issue 
 
 ---
 
-**🐍🚀** *Feliz programação!*
+**🐍  🚀**
