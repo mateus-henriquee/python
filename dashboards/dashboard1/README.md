@@ -31,6 +31,3 @@ Na interface que será carregada no terminal, insira o seu e-mail quando solicit
 ---
 
 O Dashboard Será Aberto No Navegador e Agora Você Está Pronto Para Interagir Com o Dashboard! 🚀
-```
-
-Esse arquivo `README.md` oferece instruções claras sobre como configurar e executar o projeto. Certifique-se de ajustar os detalhes conforme necessário se houver mais informações relevantes para o seu projeto.
