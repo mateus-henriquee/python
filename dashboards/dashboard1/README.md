@@ -1,4 +1,3 @@
-Aqui está o conteúdo do arquivo `README.md` conforme solicitado:
 
 ```markdown
 # Como Usar / How To Use
