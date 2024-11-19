@@ -1,0 +1,4 @@
+#Visão Mensal; ✔
+#Faturamento Por Unidade; ✔
+#Tipo de Produto Mais Vendido, Contribuição Por Filial; ✔
+#Desempenho Das Formas De Pagamento; ✔

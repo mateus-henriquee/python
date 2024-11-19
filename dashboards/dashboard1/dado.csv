@@ -1,0 +1,46 @@
+﻿Invoice ID,Branch,City,Gender,Product Line,Unit Price,Quantity,Tax 5%,Total,Date,Time,Payment,Cogs,Gross margin percental
+1,A,New York,Male,Electronics,150,2,15,315,2024-01-01,09:15,Credit Card,300,5.00%
+2,B,Los Angeles,Female,Furniture,200,1,10,210,2024-01-02,10:30,Debit Card,200,0.00%
+3,C,Chicago,Male,Clothing,75,3,11.25,236.25,2024-01-03,11:00,Cash,225,4.44%
+4,D,Houston,Female,Food,50,5,12.50,287.50,2024-01-04,12:45,Debit Card,250,12.50%
+5,A,New York,Male,Electronics,150,1,7.50,157.50,2024-01-05,13:30,Credit Card,150,5.00%
+6,B,Los Angeles,Female,Furniture,180,2,18,396,2024-01-06,14:00,Debit Card,360,5.00%
+7,C,Chicago,Male,Clothing,70,4,14,294,2024-01-07,09:15,Cash,280,4.76%
+8,D,Houston,Female,Food,60,3,9,189,2024-01-08,10:30,Credit Card,180,5.00%
+9,A,New York,Female,Electronics,120,2,12,252,2024-01-09,11:00,Debit Card,240,5.00%
+10,B,Los Angeles,Male,Furniture,210,1,10.50,220.50,2024-01-10,12:45,Cash,210,0.00%
+11,C,Chicago,Female,Clothing,85,3,12.75,275.25,2024-01-11,13:30,Credit Card,255,10.00%
+12,D,Houston,Male,Food,55,2,5.50,115.50,2024-01-12,14:00,Debit Card,110,4.55%
+13,A,New York,Female,Electronics,130,1,6.50,136.50,2024-01-13,09:15,Cash,130,0.00%
+14,B,Los Angeles,Male,Furniture,190,2,19,398,2024-01-14,10:30,Credit Card,380,5.00%
+15,C,Chicago,Female,Clothing,95,2,9.50,199.50,2024-01-15,11:00,Debit Card,190,5.00%
+16,D,Houston,Male,Food,70,4,14,294,2024-01-16,12:45,Cash,280,5.00%
+17,A,New York,Male,Electronics,140,3,21,441,2024-01-17,13:30,Debit Card,420,4.55%
+18,B,Los Angeles,Female,Furniture,160,2,16,336,2024-01-18,14:00,Credit Card,320,5.00%
+19,C,Chicago,Male,Clothing,80,1,4,84,2024-01-19,09:15,Cash,80,0.00%
+20,D,Houston,Female,Food,65,3,9.75,204.75,2024-01-20,10:30,Debit Card,195,5.00%
+21,A,New York,Female,Electronics,160,2,16,336,2024-01-21,11:00,Credit Card,320,5.00%
+22,B,Los Angeles,Male,Furniture,175,1,8.75,183.75,2024-01-22,12:45,Cash,175,0.00%
+23,C,Chicago,Female,Clothing,90,2,9,189,2024-01-23,13:30,Debit Card,180,5.00%
+24,D,Houston,Male,Food,75,4,15,315,2024-01-24,14:00,Cash,300,5.00%
+25,A,New York,Male,Electronics,125,1,6.25,131.25,2024-01-25,09:15,Cash,125,0.00%
+26,B,Los Angeles,Female,Furniture,210,2,21,441,2024-01-26,10:30,Debit Card,420,5.00%
+27,C,Chicago,Male,Clothing,70,3,10.50,220.50,2024-01-27,11:00,Credit Card,210,5.00%
+28,D,Houston,Female,Food,50,2,5,105,2024-01-28,12:45,Cash,100,5.00%
+29,A,New York,Female,Electronics,140,2,14,294,2024-01-29,13:30,Debit Card,280,5.00%
+30,B,Los Angeles,Male,Furniture,190,3,28.50,598.50,2024-01-30,14:00,Credit Card,570,5.00%
+31,C,Chicago,Female,Clothing,85,1,4.25,89.25,2024-01-31,09:15,Cash,85,0.00%
+32,D,Houston,Male,Food,65,5,16.25,345,2024-02-01,10:30,Debit Card,325,5.00%
+33,A,New York,Male,Electronics,160,3,24,504,2024-02-02,11:00,Credit Card,480,5.00%
+34,B,Los Angeles,Female,Furniture,180,2,18,396,2024-02-03,12:45,Cash,360,5.00%
+35,C,Chicago,Male,Clothing,100,2,10,220,2024-02-04,13:30,Debit Card,200,10.00%
+36,D,Houston,Female,Food,55,3,8.25,178.25,2024-02-05,14:00,Credit Card,165,7.50%
+37,A,New York,Female,Electronics,120,2,12,252,2024-02-06,09:15,Cash,240,5.00%
+38,B,Los Angeles,Male,Furniture,200,1,10,210,2024-02-07,10:30,Debit Card,200,0.00%
+39,C,Chicago,Female,Clothing,75,2,7.50,157.50,2024-02-08,11:00,Credit Card,150,5.00%
+40,D,Houston,Male,Food,60,4,12,252,2024-02-09,12:45,Cash,240,5.00%
+41,A,New York,Male,Electronics,130,3,19.50,409.50,2024-02-10,13:30,Debit Card,390,4.55%
+42,B,Los Angeles,Female,Furniture,220,1,11,231,2024-02-11,14:00,Credit Card,220,0.00%
+43,C,Chicago,Male,Clothing,80,3,12,276,2024-02-12,09:15,Cash,240,13.04%
+44,D,Houston,Female,Food,50,2,5,105,2024-02-13,10:30,Debit Card,100,5.00%
+45,A,New York,Female,Electronics,110,2,11,231,2024-02-14,11:00,Credit Card,220,5.00%
