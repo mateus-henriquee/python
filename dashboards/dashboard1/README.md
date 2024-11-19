@@ -1,6 +1,4 @@
-
-```markdown
-# Como Usar / How To Use
+## Como Usar / How To Use
 
 ---
 
