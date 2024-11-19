@@ -1,8 +1,8 @@
-## Como Usar / How To Use
+## Como Usar / How To Use 📘
 
 ---
 
-## Passo 1: Instalar as bibliotecas
+## Passo 1: Instalar as bibliotecas 📦
 
 Para começar, você precisa instalar as bibliotecas necessárias. Abra o Prompt de Comando ou Terminal e execute o seguinte comando:
 
@@ -14,7 +14,7 @@ Essas bibliotecas são essenciais para o funcionamento do seu dashboard interati
 
 ---
 
-## Passo 2: Executar o código
+## Passo 2: Executar o código ▶️
 
 Após a instalação, execute o código com o seguinte comando:
 
@@ -24,9 +24,9 @@ streamlit run dashboards.py
 
 ---
 
-## Passo 3: Inserir o seu email
+## Passo 3: Inserir o seu email 📧
 
-Na interface que será carregada no terminal, insira o seu e-mail quando solicitado e pressione a tecla **Enter** para continuar.
+Na interface que será carregada no terminal, insira o seu e-mail quando solicitado e pressione a tecla **Enter** para continuar. ⏩
 
 ---
 
