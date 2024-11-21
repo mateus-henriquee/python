@@ -16,8 +16,8 @@ pa.PAUSE = 0.75
 
 #TELA DE LOGIN
     time.sleep(9.25)
-    pa.write("rm15745@fiap.com.br")
+    pa.write("meulogin@gmai.co")
     pa.press('enter')
     time.sleep(3)
-    pa.write("Ma070308")
+    pa.write("minhasenha123")
     pa.press('enter')
