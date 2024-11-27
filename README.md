@@ -108,7 +108,7 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## 💬 **Contato**
 
-Se você tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma issue ou me enviar um e-mail:
+Se você tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma ou me enviar um e-mail:
 
 📧 [mateush.leccese@gmail.com](mailto:mateush.leccese@gmail.com)
 
