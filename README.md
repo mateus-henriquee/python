@@ -2,10 +2,10 @@
 
 Bem-vindo ao meu repositório de **Projetos Python**! Aqui você encontrará uma coleção de projetos desenvolvidos em Python, abordando uma variedade de tópicos como:
 
-- Automação 🤖
+- Automação 🚗
 - Análise de dados 📊
 - Inteligência Artificial 🤖
-- Web Scraping 🌐
+- Visão Computacional 👁‍🗨
 - E muito mais...
 
 Cada projeto foi pensado para ajudá-lo a aprender e aplicar Python em diferentes áreas do desenvolvimento.
@@ -23,8 +23,7 @@ A estrutura do repositório é organizada da seguinte forma:
 │       └── README.md
 ├── basico/
 │   └── projeto1/
-│       ├── main.py
-│       └── README.md
+│       └── main.py
 ├── dashboards/
 │   └── dashboard1/
 │       ├── README.md
@@ -32,9 +31,9 @@ A estrutura do repositório é organizada da seguinte forma:
 │       ├── dashboards.py
 │       └── perguntas.txt
 ├── visao-computacional/
-│   └── projeto1/
-│       ├── main.py
-│       └── README.md
+│   └── ligar-camera/
+│       ├── README.md
+│       └── main.py
 ├── .gitignore
 ├── README.md
 └── package-lock.json
@@ -80,7 +79,7 @@ Aqui estão os principais projetos disponíveis neste repositório:
 ### 🌐 **Dashboards**
 - Criação de dashboards interativos para visualização de dados.
 
-### 🤖 **Automações**
+### 🚗 **Automações**
 - Scripts que automatizam tarefas repetitivas no seu computador.
 
 ### 👁‍🗨 **Visão Computacional**
@@ -97,6 +96,7 @@ Aqui estão os principais projetos disponíveis neste repositório:
 - `pandas` — Manipulação de dados e análise de dados.
 - `plotly` — Visualização interativa de gráficos.
 - `pyautogui` — Automação de interface gráfica.
+- `openCV` - Biblioteca para processamento de imagens e visão computacional.
 
 ---
 
