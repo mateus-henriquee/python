@@ -92,7 +92,7 @@ Aqui estão os principais projetos disponíveis neste repositório:
 - **Python 3.x** 🐍
 
 ### 📦 **Bibliotecas Principais:**
-- `numpy` — Para operações numéricas e matrizes.
+- `numpy` — Operações numéricas e matrizes.
 - `pandas` — Manipulação de dados e análise de dados.
 - `plotly` — Visualização interativa de gráficos.
 - `pyautogui` — Automação de interface gráfica.
