@@ -54,7 +54,7 @@ Siga estas etapas para rodar os projetos no seu ambiente local:
 1. **Clone o repositório:**
    ```bash
    git clone https://github.com/mateus-henriquee/python
-   cd mateus-henriquee
+   cd python
    ```
 
 2. **Instale as dependências (se necessário):**
