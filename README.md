@@ -100,12 +100,6 @@ Aqui estão os principais projetos disponíveis neste repositório:
 
 ---
 
-## 📄 **Licença**
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
-
 ## 💬 **Contato**
 
 Se você tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma ou me enviar um e-mail:
