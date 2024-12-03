@@ -1,6 +1,6 @@
-# Notificador de Conclusão de Código
+# Notificador de Conclusão de Código 💬
 
-Este Projeto Simples Que Utiliza a biblioteca **Plyer** para exibir notificações no sistema operacional. O objetivo do script é notificar o usuário com uma mensagem ao finalizar a execução do código.
+Este Projeto Simples Que Utiliza a Biblioteca **Plyer** Para Exibir Notificações No Sistema Operacional. O Objetivo Desse Projeto é Notificar o Usuário Com Uma Mensagem Ao Finalizar a Execução Do Código.
 
 ---
 
