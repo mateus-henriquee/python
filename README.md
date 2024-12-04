@@ -21,19 +21,28 @@ A estrutura do repositório é organizada da seguinte forma:
 │   └── login-teams/
 │       ├── main.py
 │       └── README.md
-├── basico/
-│   └── projeto1/
-│       └── main.py
+│ 
+├── projetos/
+│   ├── logica-de-programacao/
+│   │   └── main.py
+│   │  
+│   └── python-mensagem/
+|       ├── main.py
+│       |── README.md
+│       └── python.ico
+│ 
 ├── dashboards/
 │   └── dashboard1/
 │       ├── README.md
 │       ├── dado.csv
 │       ├── dashboards.py
 │       └── perguntas.txt
+│ 
 ├── visao-computacional/
-│   └── ligar-camera/
+│   ├── ligar-camera/
 │       ├── README.md
 │       └── main.py
+│ 
 ├── .gitignore
 ├── README.md
 └── package-lock.json
