@@ -61,3 +61,8 @@ python projetos\python-mensagem
 
 ## 📝 Licença
 - Este projeto é livre para uso e modificação. Sinta-se à vontade para ajustar o código e usá-lo como desejar.
+
+---
+⭐ **Se você gostou do projeto, não esqueça de dar uma estrela!**
+
+Obrigado por visitar meu perfil! 😊
