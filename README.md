@@ -62,20 +62,17 @@ Siga estas etapas para rodar os projetos no seu ambiente local:
 
 1. **Clone o repositório:**
    ```bash
-   <span style="color: gray;">bash: </span>
    git clone https://github.com/mateus-henriquee/python
    cd python
    ```
 
 2. **Instale as dependências (se necessário):**
    ```bash
-   <span style="color: gray;">bash: </span>
    pip install -r requirements.txt
    ```
 
 3. **Execute o projeto desejado:**
    ```bash
-   <span style="color: gray;">bash: </span>
    python nome_do_arquivo.py
    ```
 
